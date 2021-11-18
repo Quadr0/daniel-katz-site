@@ -1,0 +1,25 @@
+{
+  "name": "daniel-katz-site",
+  "version": "1.0.0",
+  "description": "Daniel Katz's Site",
+  "scripts": {
+    "build": "eleventy && npm run sass",
+    "serve": "concurrently 'eleventy --serve' 'npm run sass:watch'",
+    "sass": "sass src/styles:dist/styles/ --no-source-map --style=compressed --update",
+    "sass:watch": "npm run sass && npm run sass -- --watch",
+    "clean": "rm -rf dist",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "upload": "scp -r dist/* dan:/var/www/daniel-katz-site/"
+  },
+  "keywords": [],
+  "author": "Daniel Katz (katz.daniel.03@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy-plugin-rss": "^1.1.1",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.2",
+    "concurrently": "^6.2.2",
+    "luxon": "^1.28.0",
+    "sass": "^1.42.1"
+  }
+}
