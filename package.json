@@ -9,7 +9,7 @@
     "sass:watch": "npm run sass && npm run sass -- --watch",
     "clean": "rm -rf dist",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "upload": "scp -r dist/* dan:/var/www/daniel-katz-site/"
+    "upload": "ssh dan 'rm -rf var/www/daniel-katz-site/*'; scp -r dist/* dan:/var/www/daniel-katz-site/"
   },
   "keywords": [],
   "author": "Daniel Katz (katz.daniel.03@gmail.com)",
