@@ -24,6 +24,7 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addLayoutAlias('homepage', 'layouts/homepage.html');
 
 
+
   // Specify configuration for 11ty itself
   return {
     markdownTemplateEngine: 'njk',
