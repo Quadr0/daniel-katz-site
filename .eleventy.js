@@ -25,7 +25,7 @@ module.exports = (eleventyConfig) => {
 
 
 
-  // Specify configuration for 11ty itself
+  // Configuration for 11ty itself
   return {
     markdownTemplateEngine: 'njk',
     dataTemplateEngine: 'njk',
