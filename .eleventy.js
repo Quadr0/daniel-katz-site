@@ -11,7 +11,8 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addPlugin(pluginRss);
   
   // eleventyConfig.addPassthroughCopy('favicon.ico');
-  eleventyConfig.addPassthroughCopy('src/assets/fonts/');
+  // eleventyConfig.addPassthroughCopy('src/assets/fonts/');
+  eleventyConfig.addPassthroughCopy('src/assets/');
 
   // Zone needs to be Etc/UTC for the dates to be displayed properly; if using America/New_York, the date is always a day behind
   eleventyConfig.addFilter("readableDate", (dateObj) => {
