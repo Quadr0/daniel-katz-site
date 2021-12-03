@@ -8,6 +8,8 @@
     <title>{{ title }}</title>
     <link rel="stylesheet" href="./styles/homepage.css" />
     <link rel="alternate" href="/feed.xml" type="application/atom+xml" title="{{ siteMeta.author.name }}" />
+    {% include "partials/font-preload.html" %}
+    {% include "partials/analytics.html" %}
   </head>
   <body>
     <div class="container">
