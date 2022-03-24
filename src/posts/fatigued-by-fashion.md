@@ -1,10 +1,10 @@
 ---
-layout: column
+layout: blogpost
 date: '2021-03-10'
 title: Fatigued By Fashion
 tags: ["posts"]
 ---
-
+{% include "partials/column-intro.html" %}
 At the start of quarantine last spring, I found myself browsing the product website for an incredibly pretentious designer mechanical keyboard called the “Tokyo 60.” While trying to analyze both the functionality and aesthetics of this overpriced hunk of aluminum, I stumbled upon a digital masterpiece: a photoshoot titled “Corporate Kawaii,” with the keyboard as the primary accessory. The main shot featured a model with 4-inch neon nails, a pageboy bob haircut, and an acid trip-inspired sash and bowtie surrounded by three impeccably styled keyboards.
 
 The source of this magic turned out to be The Comm, short for The Community, an internet-based Japanese fashion (“j-fashion”) magazine. Their pieces range from critical analyses of why Victorian-era outfits were in trend among Japan’s youth to “listicles” of the top 15 e-girl hangouts in Tokyo. My personal style can probably be described as “lost at sea,” but when I noticed an ad at the bottom asking for writers, something spoke to me.

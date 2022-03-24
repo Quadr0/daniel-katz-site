@@ -16,6 +16,7 @@ module.exports = (eleventyConfig) => {
 
   // Zone needs to be Etc/UTC for the dates to be displayed properly; if using America/New_York, the date is always a day behind
   eleventyConfig.addFilter("readableDate", (dateObj) => {
+    if(typeof dateObj === 'string') dateObj = new Date(dateObj)
     return DateTime.fromJSDate(dateObj, {zone: "Etc/UTC"}).toLocaleString(DateTime.DATE_FULL);
   });
 

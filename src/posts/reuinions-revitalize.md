@@ -1,10 +1,10 @@
 ---
-layout: column
+layout: blogpost
 date: '2021-06-17'
 title: Reuinions Revitalize
 tags: ["posts"]
 ---
-
+{% include "partials/column-intro.html" %}
 Names have been changed to protect the innocent.
 
 Bob, Bill, Brad, and Daniel. The four of us were inseparable. I was only at Shore Country Day School in Beverly from third to fifth grade, but, somehow, I really do still remember it like it was yesterday. And the “core four” was central to it all: accidental near-amputations, malware mishaps, and recreations of hip hop videos.
