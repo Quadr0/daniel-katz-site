@@ -4,6 +4,7 @@ date: '2022-03-09'
 title: 'What Your Favorite (Post-)Modern Mid-Century Japanese Novel Says About You'
 tags: ["posts"]
 ---
+
 ## *No Longer Human*, Osamu Dazai
 You’ve been called a lot of things, but “diligent” is not one of them. You refuse to spend money on a haircut, but you’ll spend three hours doing a cost-benefit analysis of your options on SpotHero. You had a meltdown at Benihana’s after your MPH graduation, but that was the old you. There was definitely a black box theatre phase. You’re active on MySpace. 
 

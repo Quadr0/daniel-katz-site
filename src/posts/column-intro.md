@@ -4,7 +4,7 @@ date: '2021-03-10'
 title: Columns
 tags: ["posts"]
 ---
-&nbsp; 
+
 My school's newspaper, The Vangaurd, takes 4-5 juniors every spring to be columnists for a year. 
 
 For 2021-22 Vangaurd issue, the editorial board choose me as one of the columnists!

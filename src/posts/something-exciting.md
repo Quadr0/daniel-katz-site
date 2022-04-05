@@ -4,7 +4,6 @@ date: '2022-04-05'
 title: 'What Is Something That Excites You'
 tags: ["posts"]
 ---
-<br>
 
 I love books, but I definitely have a type. The books I’m faithful to all have something I can best describe as a pulse; I feel like I can flip up the words and see the meanings they’re meant to deliver to me. They’re books that transgress boundaries between high and low culture; they deal with pretentious matters very unpretentiously. They’re dramatic but not over the top; they’re abrasive, yet stylish. The way they nonchalantly roll out the moments that change everything feels unnatural, supernatural and totally natural, all at once. 
 
