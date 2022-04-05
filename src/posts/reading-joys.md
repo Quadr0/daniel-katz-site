@@ -1,0 +1,25 @@
+---
+layout: blogpost
+date: '2022-02-11'
+title: 'The Joys of Reading'
+tags: ["posts"]
+---
+{% include "partials/column-intro.html" %}
+
+I love books, but I admit, I definitely have a type. The books I’m faithful to all have something I can best describe as a pulse. The way they nonchalantly roll out the moments that change everything feels unnatural, supernatural, and totally natural simultaneously.  
+
+I’ve felt this way ever since early on in my childhood. A little vanilla I’ll admit, but the Harry Potter series really sucked me in. The character and world building begged me to keep turning pages lit by a flashlight under the sheets. My appreciation for the book probably has something to do with gaining the ability to comprehend “plots” and “narratives” at nine-ish years old rather than the series’ pure quality. Yet, the book still sticks with me and so many others. I think that the books’ ability to simulate and explore interpersonal relationships that its target audience was going through while also having a fully-realized setting that allowed the reader to “escape” daily life was the reason it became so successful. I read the Harry Potter series once more (and still have the complete collection somewhere in my house) before starting 7th grade.
+
+During middle school, I sort of lost my interest in reading. I can’t say exactly why, but I think a gaming console, increased social freedom, and my fencing coach’s tendency to schedule me for weekly tournaments might have had something to do with it. I still enjoyed all the schoolbooks I read, and I didn’t feel as though I was losing any creativity inspired by literature. To be honest, I didn’t feel as though I lost anything by basically giving up reading for fun back then. The team rides to Upstate NY and Central NJ (quite grim locales in retrospect) gave me all the stimulation I needed, even if a little lacking in intellectualism.
+
+Yet the bookshelf in my basement pulled me toward it the summer before high school started. I went through the shelf, reminiscing. Finally, my neurons had a rare moment of connection where I remembered that I’m not quite illiterate. I picked up my long-neglected torch. The magic didn’t come back instantly; I don’t think much magic can come from ordering books from Amazon’s best sellers list.  Yet, as the summer and year progressed, I kept feeling more of it. Reading the Odyssey in 9th grade was when I truly remembered why I liked reading so much.
+
+The summer after freshman year I discovered A Personal Matter by Kenzaburo Oe, a semi-autobiography about a man reckoning with having a disabled son, wherein Oe lays out what feels (to me) like the original blueprints of fear and hope. I can almost flip up the words and see the meanings they’re meant to imprint; his lyrical diction stands orthogonal to the characters’ ruffled thoughts, and it all adds up to a story that has little to do with its plot points. When I first read A Personal Matter, I felt like I’d been put through the emotional equivalent of a garbage compactor. I keep re-reading it.
+
+I’ve found a higher concentration of this specific type of magic in 20th century Japanese literature, but it generally seems to rear its head in books from cultures that offset my own. They don’t avoid the realities of life’s forced compromises: few straight answers, no guarantees, and time’s tendency to separate us from the version of ourselves we last recognized. While seeing two of your country’s cities destroyed by nuclear weapons or having your Podunk village friend perfectly emulate the voice of your emperor, who was set up as an untouchable demi-god, probably catalyzes a new perspective in its own right, dawning this perspective with my eyes is an entirely transcendent experience, how the world of Hogwarts’ in late ‘90’s England was enough of a separation for me back then.
+
+Not to sound detached from realty, a diagnosis I’ll leave to the pros, but pulling a situation from a book and analyzing it helps inform my own actions. For example, the Bible taught me a little faith goes a long way and that every animal on earth is inbred (ok, maybe I doubt this one a bit). While we don’t have a how-to-be-a-good-person class, we have English class; in my mind, it’s even better. 
+
+Something books have taught me is that even if common ground isn’t obvious, it’s there. Books are like telepathy; they are the closest thing we have to understanding people we have nothing in common with and have never met. Just like in the flesh, the only way to break ground is to be honest—but for that honesty to be received, there needs to be a warming up period. That’s the first few chapters.
+
+> So let’s assume that you’re in your favorite receiving place just as I am in the place where I do my best transmitting. We’ll have to perform our mentalist routine not just over distance but over time as well, yet that presents no real problem; if we can still read Dickens, Shakespeare, and (with the help of a footnote or two) Herodotus, I think we can manage the gap between 1997 and 2000. &nbsp;- Stephen King

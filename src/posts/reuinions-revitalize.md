@@ -46,4 +46,4 @@ the four of us would likely not see each other for a while. And yet, something a
 
 If I had been overthinking every moment of my time with my old friends, I’d have dwelled too much on the past to enjoy the present. But what my old friends and I found in that moment of cross- referencing past and present was wonderful. This story doesn’t have some grand crescendo. My point this time is just to take a little time to look back, connect, reflect, and see how far you’ve come— maybe even with some witnesses. Sometimes you have to revisit the past to fully notice the present.
 
-> If you have one foot in tomorrow and one in yesterday, you’re pissing on today. - Unknown
+> If you have one foot in tomorrow and one in yesterday, you’re pissing on today. &nbsp;- Unknown

@@ -8,7 +8,7 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.setLibrary('md', markdownIt({html: true, breaks: true, linkify: false}));
 
   eleventyConfig.addPlugin(syntaxHighlight);
-  eleventyConfig.addPlugin(pluginRss);
+  // eleventyConfig.addPlugin(pluginRss);
   
   // eleventyConfig.addPassthroughCopy('favicon.ico');
   // eleventyConfig.addPassthroughCopy('src/assets/fonts/');
