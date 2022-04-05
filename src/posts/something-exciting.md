@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 date: '2022-04-05'
-title: 'What Is Something That Excites You'
+title: 'What Excites You?'
 tags: ["posts"]
 ---
 
